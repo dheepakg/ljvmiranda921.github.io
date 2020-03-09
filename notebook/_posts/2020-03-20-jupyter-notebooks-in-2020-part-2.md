@@ -79,7 +79,7 @@ incorporate them in my daily workflow.
 |  | Recommendation |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Best Tool of Choice | [Google Colaboratory](https://colab.research.google.com/). With Colab, you have immediate access to powerful hardware for your experiments.|
-| Runner-up | If you are using a Cloud Platform, I'd recommend checking-out [AWS Sagemaker Notebook Instances](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html) or Google Cloud's [AI Platform Notebooks](https://cloud.google.com/ai-platform-notebooks). |
+| Runner-up | If you are using a Cloud Platform, I'd recommend checking-out managed notebook instances in [AWS Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html) or Google Cloud's [AI Platform](https://cloud.google.com/ai-platform-notebooks). |
 | Check out | [Binder](https://mybinder.org/) for "publishing" finished work, and [JupyterHub](https://jupyter.org/hub) if you wish to setup your own managed notebook instances. |
 
 
@@ -127,6 +127,10 @@ repository to the platform.
 
 
 ### Response to Reddit FAQs
+
+* **I don't like notebooks, it would be better if people just use text editors
+    or IDEs**
+* **Why tool X isn't there? Why is tool Y there?**
 
 
 ### Footnotes
