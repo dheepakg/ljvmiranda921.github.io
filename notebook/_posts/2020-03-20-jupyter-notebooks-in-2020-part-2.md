@@ -101,9 +101,8 @@ Google Cloud (GCP), **I'd recommend taking a look at Notebook Instances.** They
 are managed Jupyter Notebooks in a server, with the option of choosing your
 preferred machine type. Between the two, I prefer SageMaker notebooks, it's
 less buggy and more seamless than Google's AI Platform Notebooks. In addition,
-because they have Git integration out-of-the-box, my tip is to always tie-in
-these Instances with a repository. 
-
+because they have Git integration out-of-the-box, it is easy to incorporate a
+repository to the platform.
 
 ### Support for developer workflow 
 
