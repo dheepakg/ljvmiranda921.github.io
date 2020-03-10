@@ -79,7 +79,7 @@ incorporate them in my daily workflow.
 |  | Recommendation |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
 | Best Tool of Choice | [Google Colaboratory](https://colab.research.google.com/). With Colab, you have immediate access to powerful hardware for your experiments.|
-| Runner-up | If you are using a Cloud Platform, I'd recommend checking-out managed notebook instances in [AWS Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html) or Google Cloud's [AI Platform](https://cloud.google.com/ai-platform-notebooks). |
+| Runner-up | If you are on a Cloud Platform, I'd recommend checking-out managed notebook instances in [AWS Sagemaker](https://docs.aws.amazon.com/sagemaker/latest/dg/nbi.html) or Google Cloud's [AI Platform](https://cloud.google.com/ai-platform-notebooks). |
 | Check out | [Binder](https://mybinder.org/) for "publishing" finished work, and [JupyterHub](https://jupyter.org/hub) if you wish to setup your own managed notebook instances. |
 
 
@@ -106,7 +106,7 @@ repository to the platform.
 
 ### Support for developer workflow 
 
-<!-- extensions -->
+<!-- extensions: nbstripout, nbdev, nbdiff -->
 <!-- non-notebook tools that can help: cookiecutter-datascience -->
 
 
